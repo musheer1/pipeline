@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mushe\\source\\repos\\PipelineVisualStudio\\PipelineVisualStudio\\PipelineVisualStudio.csproj": {}
+    "C:\\Users\\mushe\\Source\\Repos\\musheer1\\pipeline\\PipelineVisualStudio\\PipelineVisualStudio\\PipelineVisualStudio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mushe\\source\\repos\\PipelineVisualStudio\\PipelineVisualStudio\\PipelineVisualStudio.csproj": {
+    "C:\\Users\\mushe\\Source\\Repos\\musheer1\\pipeline\\PipelineVisualStudio\\PipelineVisualStudio\\PipelineVisualStudio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mushe\\source\\repos\\PipelineVisualStudio\\PipelineVisualStudio\\PipelineVisualStudio.csproj",
+        "projectUniqueName": "C:\\Users\\mushe\\Source\\Repos\\musheer1\\pipeline\\PipelineVisualStudio\\PipelineVisualStudio\\PipelineVisualStudio.csproj",
         "projectName": "PipelineVisualStudio",
-        "projectPath": "C:\\Users\\mushe\\source\\repos\\PipelineVisualStudio\\PipelineVisualStudio\\PipelineVisualStudio.csproj",
+        "projectPath": "C:\\Users\\mushe\\Source\\Repos\\musheer1\\pipeline\\PipelineVisualStudio\\PipelineVisualStudio\\PipelineVisualStudio.csproj",
         "packagesPath": "C:\\Users\\mushe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mushe\\source\\repos\\PipelineVisualStudio\\PipelineVisualStudio\\obj\\",
+        "outputPath": "C:\\Users\\mushe\\Source\\Repos\\musheer1\\pipeline\\PipelineVisualStudio\\PipelineVisualStudio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mushe\\AppData\\Roaming\\NuGet\\NuGet.Config",
